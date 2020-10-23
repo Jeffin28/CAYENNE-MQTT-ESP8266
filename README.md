@@ -58,14 +58,11 @@ If you download the library from `arduino library manager`you should comment one
   
 Open **cmqtt.cpp** and comment:
 
-<p><br>
 </div>    
 
 <p align="center">
   <img src="IMG/Screenshot%20(83).png" width="700" align="center">
 </p
-  
-<p align="center"><p align="center">
 
 <p><br>
   
