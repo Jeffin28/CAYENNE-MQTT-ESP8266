@@ -39,12 +39,12 @@ I have used an actuator system here. All things related to my demonstration are 
   <img src="IMG/Screenshot%20(81).png" width="700" align="center">
 </p
   
-<p>  
+<p><br>  
   
 * If you go for direct library download you ***gonna miss*** this acknowledgment. But there is no issue with working on the source code. 
 
 ## Compatibility
-This library was tested with the MODEMCU V1.0 ESP8266  development board. It should also work with other standard ESP8266 that are compatible with the Arduino IDE.
+This library was tested with the NodeMCU V1.0 ESP8266  development board. It should also work with other standard ESP8266 that are compatible with the Arduino IDE.
 ESP8266 core version that I have tested is `2.4.2` 
 
 ## Working 
