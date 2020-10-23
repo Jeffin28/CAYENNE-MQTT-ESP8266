@@ -25,8 +25,15 @@ I have used an actuator system here. All things related to my demonstration are 
     Create a dashboard with at least one gadget and make simulation possible with **ESP8266**.Create your Cayenne account at https://www.cayenne-mydevices.com.
    
  3. Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library         from my repo or you can download the library from the arduino library manager.
-   
-***Attention !!*** : If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
+ 
+ 4. The source code for our ESP8266 simulation can be found in the **CODE** folder. Open from the downloaded repository and make some changes as mentioned below :
+    a. Open **global.h** and provide your wifi router's `ssid` and `password` :
+    
+<p align="center">
+  <img src="IMG/.png" width="290" align="center">
+</p   
+
+ 4If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
     
 <p align="center">
   <img src="IMG/Screenshot%20(83).png" width="700" align="center">
