@@ -14,6 +14,8 @@ I have used an actuator system here. All things related to my demonstration are 
 </p
   
 * The system consists of three gadgets like a LED,BULB,and FAN in the cayenne dashboard.Which sends its digital values to ESP8266 via MQTT.
+
+
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) for Windows, Linux or Mac OS.
 
@@ -33,6 +35,8 @@ I have used an actuator system here. All things related to my demonstration are 
   
 <p align="center"><p align="center">
 
+<p><br>
+  
 <div align="center">
   
 Better use my library 👍 from the **LIB** folder because I have included some changes in the cayenne library for knowing the cayenne MQTT connection status and its serial print acknowledgment in Arduino IDE like below picture :
