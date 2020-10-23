@@ -10,7 +10,7 @@ The Cayenne MQTT Arduino Library is a collection of code, known as sketch files,
 I have used an actuator system here. All things related to my demonstration are described in the documentation. You can see my concept below :
 
 <p align="center">
-  <img src="IMG/system.png" width="400" align="center">
+  <img src="IMG/concept.png" width="290" align="center">
 </p
 
 The system consists of three gadgets like a LED, BULB, and FAN in the cayenne dashboard.Which sends its digital values to ESP8266 via MQTT.
