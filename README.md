@@ -39,12 +39,11 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
 </p  
   
 <p><br>
-<div align="center">    
+<div align="center">  
+</div>   
   
-Open **cmqtt.cpp** and fill your credentials here 👇 .For more info refer the document ***page number 3***     
+   * Open **cmqtt.cpp** and fill your credentials here 👇 .For more info refer the document ***page number 3***     
       
-</div>
-
 <p align="center">
   <img src="IMG/.png" width="700" align="center">
 </p        
