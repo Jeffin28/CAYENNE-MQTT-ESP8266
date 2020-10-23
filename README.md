@@ -26,7 +26,7 @@ I have used an actuator system here. All things related to my demonstration are 
    ***NB***: If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment :  
 
 <p align="center">
-  <img src="IMG/Screenshot%20(83).png" width="400" align="center">
+  <img src="IMG/Screenshot%20(83).png" width="600" align="center">
 </p
   
 <p align="center"><p align="center">
@@ -34,7 +34,7 @@ I have used an actuator system here. All things related to my demonstration are 
 <div align="center">Better use my library 👍 from the **LIB** folder because I have included some changes in the cayenne library for knowing the cayenne MQTT connection status and its serial print acknowledgment in Arduino IDE like below picture :</div>
 
 <p align="center">
-  <img src="IMG/Screenshot%20(81).png" width="400" align="center">
+  <img src="IMG/Screenshot%20(81).png" width="600" align="center">
 </p
   
 If you go for direct library download you gonna miss this acknowledgment. But there is no issue with working on the source code. 
