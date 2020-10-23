@@ -37,7 +37,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
    - Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
-  <img src="IMG/Screenshot%20(49).png" width="700" align="center">
+  <img src="IMG/Screenshot%20(49).png" width="600" align="center">
 </p  
   
 <p><br> 
