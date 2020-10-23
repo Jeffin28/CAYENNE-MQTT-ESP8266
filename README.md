@@ -68,7 +68,7 @@ Open **cmqtt.cpp** and comment:
   
 <div align="center">
   
-Better use my library 👍 from the **LIB** folder because I have included some changes in the cayenne library for knowing the cayenne MQTT `connection status` and its serial print acknowledgment in Arduino IDE like below picture.It will really help us to know whether the ESP8266 connected or not to **Cayenne** dashboard. 
+Better use my library 👍 from the **LIB** folder because I have included some changes in the `Cayenne library` for knowing the  Cayenne MQTT `connection status` and its serial print acknowledgment in Arduino IDE like the below picture. It will really help us to know whether the ESP8266 connected or not to the **Cayenne dashboard**. 
 
 </div>
 
