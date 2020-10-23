@@ -18,12 +18,12 @@ I have used an actuator system here. All things related to my demonstration are 
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) for Windows, Linux or Mac OS.
 
 ## Steps :
- 1.**Download** the repo.
+ 1. **Download** the repo.
  
- 2.For those who don't have a cayenne dashboard 😇 download the ***CAYENNE IOT WITH ESP8266*** named pdf from the **DOC** folder and carefully read it. 
-   Create a dashboard with at least one gadget and make simulation possible with **ESP8266**.Create your Cayenne account at https://www.cayenne-mydevices.com.
+ 2. For those who don't have a cayenne dashboard 😇 download the ***CAYENNE IOT WITH ESP8266*** named pdf from the **DOC** folder and carefully read it. 
+    Create a dashboard with at least one gadget and make simulation possible with **ESP8266**.Create your Cayenne account at https://www.cayenne-mydevices.com.
    
- 3.Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library from    my repo or you can download the library from the arduino library manager.
+ 3. Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library         from my repo or you can download the library from the arduino library manager.
  
    ***NB***: If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment :  
 
