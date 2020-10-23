@@ -49,11 +49,16 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
   
 <p><br>
   
-***NB***:If you download the library from `arduino library manager`you should comment one of the function in source code.
+## MQTT Status (Must read !!!!👈) 
+
+If you download the library from `arduino library manager`you should comment one of the function in source code.
 
 <p><br>
 <div align="center">  
-- Open **cmqtt.cpp** and comment:
+  
+Open **cmqtt.cpp** and comment:
+
+<p><br>
 </div>    
 
 <p align="center">
