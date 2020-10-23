@@ -12,6 +12,7 @@ I have used an actuator system here. All things related to my demonstration are 
 <p align="center">
   <img src="IMG/concept.png" width="290" align="center">
 </p
+  
 * The system consists of three gadgets like a LED,BULB,and FAN in the cayenne dashboard.Which sends its digital values to ESP8266 via MQTT.
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) for Windows, Linux or Mac OS.
