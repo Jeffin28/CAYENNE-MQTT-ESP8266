@@ -37,7 +37,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
    - Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
-  <img src="IMG/Screenshot%20(49).png" width="600" align="center">
+  <img src="IMG/Screenshot%20(49).png" width="540" align="center">
 </p  
   
 <p><br> 
@@ -45,7 +45,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
    - Open **cmqtt.cpp** and fill your credentials here 👇 .For more info refer the document ***page number 3***     
       
 <p align="center">
-  <img src="IMG/Screenshot%20(68).png" width="1200" align="center">
+  <img src="IMG/Screenshot%20(68).png" width="1300" align="center">
 </p        
   
 <p><br>
