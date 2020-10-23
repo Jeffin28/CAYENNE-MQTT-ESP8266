@@ -30,7 +30,7 @@ I have used an actuator system here. All things related to my demonstration are 
     a. Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
-  <img src="IMG/.png" width="290" align="center">
+  <img src="IMG/Screenshot%20(49).png" width="290" align="center">
 </p   
 
  4If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
