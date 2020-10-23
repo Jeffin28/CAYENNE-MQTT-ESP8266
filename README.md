@@ -19,14 +19,16 @@ I have used an actuator system here. All things related to my demonstration are 
 
 ## Steps :
  1.**Download** the repo.
+ 
  2.For those who don't have a cayenne dashboard 😇 download the ***CAYENNE IOT WITH ESP8266*** named pdf from the **DOC** folder and carefully read it. 
    Create a dashboard with at least one gadget and make simulation possible with **ESP8266**.Create your Cayenne account at https://www.cayenne-mydevices.com.
    
  3.Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library from    my repo or you can download the library from the arduino library manager.
+ 
    ***NB***: If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment :  
 
 <p align="center">
-  <img src="IMG/Screenshot%20(83).png" width="600" align="center">
+  <img src="IMG/Screenshot%20(83).png" width="700" align="center">
 </p
   
 <p align="center"><p align="center">
@@ -34,7 +36,7 @@ I have used an actuator system here. All things related to my demonstration are 
 <div align="center">Better use my library 👍 from the **LIB** folder because I have included some changes in the cayenne library for knowing the cayenne MQTT connection status and its serial print acknowledgment in Arduino IDE like below picture :</div>
 
 <p align="center">
-  <img src="IMG/Screenshot%20(81).png" width="600" align="center">
+  <img src="IMG/Screenshot%20(81).png" width="700" align="center">
 </p
   
 If you go for direct library download you gonna miss this acknowledgment. But there is no issue with working on the source code. 
