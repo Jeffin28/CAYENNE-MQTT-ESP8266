@@ -13,7 +13,8 @@ I have used an actuator system here. All things related to my demonstration are 
   <img src="IMG/concept.png" width="290" align="center">
 </p
   
-* The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the `Cayenne` dashboard.Which sends its digital values to ESP8266 via **MQTT**.
+* The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the `Cayenne` dashboard.
+  Which sends its digital values to ESP8266 via **MQTT**.
 
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) for Windows, Linux or Mac OS.
@@ -25,10 +26,9 @@ I have used an actuator system here. All things related to my demonstration are 
     Create a dashboard with at least one gadget and make simulation possible with **ESP8266**.Create your Cayenne account at https://www.cayenne-mydevices.com.
    
  3. Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library         from my repo or you can download the library from the arduino library manager.
-    <p><br>
-    
+   
     ***Attention !!*** : If you download the library from `arduino library manager`you should comment one of the function in source code.<br> 
-    Open **cmqtt.cpp** and comment :
+          Open **cmqtt.cpp** and comment :
     
 <p align="center">
   <img src="IMG/Screenshot%20(83).png" width="700" align="center">
