@@ -61,7 +61,7 @@ Open **cmqtt.cpp** and comment:
 </div>    
 
 <p align="center">
-  <img src="IMG/Screenshot%20(83).png" width="700" align="center">
+  <img src="IMG/Screenshot%20(83).png" width="900" align="center">
 </p
 
 <p><br>
