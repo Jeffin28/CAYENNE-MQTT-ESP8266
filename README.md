@@ -32,7 +32,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
  3. Open **LIB** folder from the downloaded repo then extract the `ZIP` file and place the `CayenneMQTT`(version 1.3.0) folders into your Arduino local directory folder
     (libraries). You have an alternate option to download the library from the Arduino library manager. But before that, you must read the **MQTT Status** section.
     
- 4. The source code for our ESP8266 simulation can be found in the **CODE** folder. Open **source code** from the downloaded repo and make some changes as mentioned below :
+ 4. The **source code** for our ESP8266 simulation can be found in the **CODE** folder. Open **source code** from the downloaded repo and make some changes as mentioned below :
    
    - Open **global.h** and provide your wifi router's `ssid` and `password` :
     
