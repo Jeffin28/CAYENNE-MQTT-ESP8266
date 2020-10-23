@@ -32,16 +32,19 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
  3. Open **LIB** folder then place the `CayenneMQTT`(version 1.3.0) folders into your arduino local dierectory folder (libraries) from the downloaded repo.Place this library         from my repo or you can download the library from the arduino library manager.
  
  4. The source code for our ESP8266 simulation can be found in the **CODE** folder. Open **source code** from the downloaded repo and make some changes as mentioned below :
-      - Open **global.h** and provide your wifi router's `ssid` and `password` :
+      * Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
   <img src="IMG/Screenshot%20(49).png" width="700" align="center">
 </p  
   
 <p><br>
-</p>  
-      - Open **cmqtt.cpp** and fill your credentials here.For more info refer the document ***page number 3***     
+<div align="center">    
+  
+Open **cmqtt.cpp** and fill your credentials here 👇 .For more info refer the document ***page number 3***     
       
+</div>
+
 <p align="center">
   <img src="IMG/.png" width="700" align="center">
 </p        
