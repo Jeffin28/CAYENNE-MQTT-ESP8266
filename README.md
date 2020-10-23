@@ -13,8 +13,12 @@ I have used an actuator system here. All things related to my demonstration are 
   <img src="IMG/concept.png" width="290" align="center">
 </p
   
-*  The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the `Cayenne` dashboard.Which sends its digital values to ESP8266 via **MQTT**.
+<p><br>
+<div align="center">  
+  
+The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the `Cayenne` dashboard.Which sends its digital values to ESP8266 via **MQTT**.
 
+</div>
 ## Software
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) for Windows, Linux or Mac OS.
 
@@ -30,10 +34,10 @@ I have used an actuator system here. All things related to my demonstration are 
     a. Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
-  <img src="IMG/Screenshot%20(49).png" width="290" align="center">
+  <img src="IMG/Screenshot%20(49).png" width="700" align="center">
 </p   
 
- 4If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
+***NB***:If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
     
 <p align="center">
   <img src="IMG/Screenshot%20(83).png" width="700" align="center">
