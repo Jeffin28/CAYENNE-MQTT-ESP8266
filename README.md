@@ -45,7 +45,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
    - Open **cmqtt.cpp** and fill your credentials here 👇 .For more info refer the document ***page number 3***     
       
 <p align="center">
-  <img src="IMG/Screenshot%20(68).png" width="1000" align="center">
+  <img src="IMG/Screenshot%20(68).png" width="1200" align="center">
 </p        
   
 <p><br>
@@ -61,7 +61,7 @@ Open **cmqtt.cpp** and comment:
 </div>    
 
 <p align="center">
-  <img src="IMG/Screenshot%20(83).png" width="900" align="center">
+  <img src="IMG/Screenshot%20(83).png" width="700" align="center">
 </p
 
 <p><br>
