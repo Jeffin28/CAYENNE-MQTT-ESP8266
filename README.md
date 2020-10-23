@@ -49,8 +49,13 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
   
 <p><br>
   
-***NB***:If you download the library from `arduino library manager`you should comment one of the function in source code.Open **cmqtt.cpp** and comment:
-    
+***NB***:If you download the library from `arduino library manager`you should comment one of the function in source code.
+
+<p><br>
+<div align="center">  
+- Open **cmqtt.cpp** and comment:
+</div>    
+
 <p align="center">
   <img src="IMG/Screenshot%20(83).png" width="700" align="center">
 </p
