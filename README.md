@@ -90,5 +90,5 @@ Demonstration of `publish` and `subscribe` between **ESP8266** and **Cayenne** d
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(85).png" width="250" align="center">
+  <img src="IMG/Screenshot%20(85).png" width="240" align="center">
 </p
