@@ -88,7 +88,7 @@ ESP8266 core version that I have tested is `2.4.2`
 ## Working 
 Demonstration of `publish` and `subscribe` between **ESP8266** and **Cayenne** dashboard described in the documentation from ***page No:7*** onwards and good luck!!!✌️.
 
-
+<p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(85).png" width="300" align="center">
+  <img src="IMG/Screenshot%20(85).png" width="250" align="center">
 </p
