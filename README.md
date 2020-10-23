@@ -51,7 +51,7 @@ The system consists of three gadgets like a **LED**,**BULB**,and **FAN** in the 
   
 ## MQTT Status (Must read !!!!👈) 
 
-If you download the library from `arduino library manager`you should comment one of the function in source code.
+If you download the library from `arduino library manager`you should comment one of the function in the given source code to avoid ***compilation error***.
 
 <div align="center">  
   
