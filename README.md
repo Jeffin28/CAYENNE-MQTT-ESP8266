@@ -2,7 +2,7 @@
 ## Overview
 
 <p align="center">
-  <img src="IMG/download.png" width="400" align="center">
+  <img src="IMG/Title.png" width="400" align="center">
 </p 
 
 The Cayenne MQTT Arduino Library is a collection of code, known as sketch files, that makes it easy for you to connect and send data to and from sensors, actuators, and devices connected to Arduino boards. Cayenne sketch files can be combined with other sketch files for your IoT projects. In this section, we will walk you through configuring the Arduino IDE to use the library and make `publish` and `subscribe` happen.
